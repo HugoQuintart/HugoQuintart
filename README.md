@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HugoQuintart
+- 👀 I’m interested in the Arduino and 3d Printing
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on Arduino Team
+- 📫 How to reach me hugo.quintart@athenee-ath.be
